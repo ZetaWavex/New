@@ -1,1 +1,1 @@
-# ![logo](ZetaWave.png)New
+# New
